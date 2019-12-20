@@ -1,0 +1,14 @@
+export const FETCH_TEAMS = 'FETCH_TEAMS';
+export const ADD_TEAM = 'ADD_TEAM';
+export const EDIT_TEAM = 'EDIT_TEAM';
+export const DELETE_TEAM = 'DELETE_TEAM';
+
+export const FETCH_PLAYERS = 'FETCH_PLAYERS';
+export const ADD_PLAYER = 'ADD_PLAYER';
+export const EDIT_PLAYER = 'EDIT_PLAYER';
+export const DELETE_PLAYER = 'DELETE_PLAYER';
+
+export const FETCH_HISTORY = 'FETCH_HISTORY';
+
+export const FETCH_TRANSFER_PLAYERS_1 = 'FETCH_TRANSFER_PLAYERS_1';
+export const FETCH_TRANSFER_PLAYERS_2 = 'FETCH_TRANSFER_PLAYERS_2';
