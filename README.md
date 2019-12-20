@@ -2,17 +2,17 @@
 
 ## Database
 
-Database name: nhl_db
+Database name: nhl_db<br />
 Database user: nhl
 
 ## Scripts
 
 ### Start the project from scratch
 
-manage.py makemigrations nhl
-manage.py migrate
-manage.py load_data
-manage.py runserver 8080
+manage.py makemigrations nhl<br />
+manage.py migrate<br />
+manage.py load_data<br />
+manage.py runserver 8080<br />
 
 ### Created Django admin superuser
 
@@ -20,7 +20,7 @@ manage.py createsuperuser
 
 ## URLs
 
-Django admin console: http://localhost:8080/admin
+Django admin console: http://localhost:8080/admin<br />
 API urls and routes: http://localhost:8080/api
 
 ----------------------------------------------------------
